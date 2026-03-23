@@ -22,7 +22,7 @@ My personal portfolio website built with Vite + React
 Planning animations before coding saved a lot of time
 
 - React component architecture & state management  
-- CSS animations and transitions (pixel bats flying, moon, clouds, paper plane)  
+- CSS animations and transitions (pixel bats flying, crawling spiders, moon, clouds, paper plane)  
 - Responsive design for desktop & mobile  
 - Deploying to Vercel  
 - Handling media & sound effects in web apps  
